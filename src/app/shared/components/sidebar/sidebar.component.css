@@ -1,0 +1,9 @@
+#sidebar {
+  position: sticky;
+  height: 100vh;
+  width: 200px;  /* Ajusta según el ancho que necesites */
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  overflow-y: auto;
+}
